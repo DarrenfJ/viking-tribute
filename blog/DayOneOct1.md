@@ -1,4 +1,4 @@
-#Day 1
+# Day 1
 
 oooOooo. I've never *not* used a CDN to load libraries or frameworks like Bootstrap.
 
@@ -6,13 +6,13 @@ So it will be fun to actually have the CSS code at my fingertips.
 
 Not fun to figure out what to link (minified files etc)
 
-####CDN
+#### CDN
 
 (from: http://www.webopedia.com/TERM/C/CDN.html)
 
 >"A content delivery network (CDN) is a system of distributed servers (network) that deliver pages and other Web content to a user, based on the geographic locations of the user, the origin of the webpage and the content delivery server."
 
-####Bootstrap
+#### Bootstrap
 
 (from: https://stackoverflow.com/questions/14546709/what-is-bootstrap)
 
@@ -20,7 +20,7 @@ Not fun to figure out what to link (minified files etc)
 
 https://getbootstrap.com/docs/3.3/getting-started/
 
-####Framework
+#### Framework
 
 (from: https://stackoverflow.com/questions/2964140/what-is-a-software-framework)
 
