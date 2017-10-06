@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+  <!-- HEAD -->
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,8 +26,18 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
+  <!-- BODY -->
   <body>
-    <h1>Hello, world!</h1>
+    <section id="cover">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12">
+            <h1>Hello, world!</h1>
+          </div> <!-- End col-md-12, Cover section -->
+        </div> <!-- End row, Cover section -->
+      </div> <!-- End container-fluid, Cover section -->
+    </section> <!-- End Cover section -->
+    
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
