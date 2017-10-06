@@ -4,7 +4,7 @@ ack!
 
 I put off the google fonts part. partly cause I am a perfectionist and hate to pick a *final* anything.
 
-goo thing this is a seven day but there's no punishment for missing a day (or 4)
+good thing this is a seven day challenge with no emphasis with *consecutive* days.. there's no punishment for missing a day (or 4)
 
 googlefont:
 
@@ -38,3 +38,5 @@ p {
 I didn't check these ones out, but you sure can!
 
 https://theclientclass.com/google-font-combinations/
+
+Edit: Ok, couldn't help myself, checked it out. I like these combos better but sticking to my first *just because*
